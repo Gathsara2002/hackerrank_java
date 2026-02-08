@@ -33,8 +33,8 @@ public class Main {
 
     // The main method is usually hidden/locked in this problem,
     // but this is what it looks like behind the scenes:
-    public static void main(String[] args){
-        if(flag){
+    public static void main(String[] args) {
+        if (flag) {
             int area = B * H;
             System.out.print(area);
         }
